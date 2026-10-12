@@ -28,8 +28,3 @@ Compile using `javac HotelReservationSystem.java` and run using `java HotelReser
 ## Internship
 **CodeAlpha – Java Programming Internship**
 
-**Task 4:** Hotel Reservation System
-
-GitHub repository description:
-
-`A Java-based hotel reservation system with room booking, cancellation, payment simulation, and file-based booking storage.`
